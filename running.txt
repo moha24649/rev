@@ -1,0 +1,9 @@
+CONTAINER ID   IMAGE       COMMAND                  CREATED         STATUS                      PORTS                    NAMES
+52e3fffe7c1d   uber_app    "/bin/sh -c 'python3…"   4 minutes ago   Up 4 minutes                0.0.0.0:8080->8080/tcp   hamed_uber
+01e0529451a4   marco       "/bin/sh -c 'python3…"   2 months ago    Exited (137) 2 months ago                            pytesty
+c8ba7dd264c3   marco       "/bin/sh -c 'python3…"   2 months ago    Exited (137) 2 months ago                            xenodochial_hofstadter
+3e695c30ab58   devasc      "/bin/sh -c 'python3…"   2 months ago    Created                                              fatima
+a32b3ed0ec36   snap        "/bin/sh -c 'python3…"   2 months ago    Exited (137) 2 months ago                            hano
+ef8be5867d06   bodi        "/bin/sh -c 'python3…"   2 months ago    Exited (2) 2 months ago                              lulu
+3eb2b5cbf874   sam         "/bin/sh -c 'python …"   2 months ago    Exited (0) 2 months ago                              crazy_kepler
+e5c1b6644670   famil:lat   "/bin/sh"                2 months ago    Exited (0) 2 months ago                              peaceful_mcclintock
